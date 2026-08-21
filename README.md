@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 ### Olá, sou o Gabriel Bosso 👋
 
 Estudante de Desenvolvimento de Software na PUC Campinas (4º período), 
