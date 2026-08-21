@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 <!--
-**gbboss-svg/gbboss-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, sou o Gabriel Bosso 👋
 
-Here are some ideas to get you started:
+Estudante de Desenvolvimento de Software na PUC Campinas (4º período), 
+com formação técnica em Jogos Digitais pelo Bento Quirino.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente focado em desenvolvimento full stack, buscando minha primeira 
+oportunidade de estágio na área.
+
+**Tecnologias:**
+- Java, Python, C#
+- HTML, CSS, JavaScript
+- Spring Boot (em aprendizado)
+
+📫 Contato: [linkedin.com/in/gabriel-bosso-411ab0323](https://www.linkedin.com/in/gabriel-bosso-411ab0323/) | gabrielbbosso@gmail.com
